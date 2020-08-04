@@ -2,7 +2,7 @@
 ```markdown
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-# Thiago Marinho
+# Luan Longen
 
 ## Olá pessoal 👋
 
