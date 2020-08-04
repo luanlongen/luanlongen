@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <HTML>
-```markdown
+
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
 # Luan Longen
