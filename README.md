@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<HTML>
+
 
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
@@ -15,5 +15,5 @@
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LuanLongen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-longen-110122183/)](https://www.linkedin.com/in/luan-longen-110122183/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-luanlongen2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanlongen2002@gmail.com)](mailto:luanlongen2002@gmail.com)
-</HTML>
+
 ```
