@@ -17,6 +17,6 @@ Sou um Front-End Developer e quero aprender mais sobre o Back-end :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-luanlongen2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanlongen2002@gmail.com)](mailto:luanlongen2002@gmail.com)
 
-> Nem tudo que começa tem que necessáriamente acabar 
+> Se sinta confortável onde estiver
 
 ``` Luan Longen
