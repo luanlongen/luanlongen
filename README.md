@@ -17,6 +17,6 @@ Sou um Front-End Developer e quero aprender mais sobre o Back-end :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-luanlongen2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanlongen2002@gmail.com)](mailto:luanlongen2002@gmail.com)
 
-> Se sinta confortável onde estiver
+> Se sinta confortável onde estiver.
 
 ``` Luan Longen
