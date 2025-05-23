@@ -6,13 +6,12 @@
 # Luan Longen
 
 ## Olá pessoal 👋
-Sou um Front-End Developer e quero aprender mais sobre o Back-end :computer:
+Sou um Analista de Teconologia e Inovação :computer:
 
- :rocket:  &nbsp; Estudo e trabalho no setor administrativo no momento
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos FullStack
+ :rocket:  &nbsp; Estou finalizando minha graduação em Ciências Econômicas!
+ <br/> :purple_heart: &nbsp; Busco colaborar com projetos FullStack 😉
  <br/> :blush: &nbsp; Posso te ajudar!
  <br/> :computer: &nbsp; 
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LuanLongen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-longen-110122183/)](https://www.linkedin.com/in/luan-longen-110122183/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-longenluan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:longenluan@gmail.com)](mailto:longenluan@gmail.com)
