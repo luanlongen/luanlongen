@@ -14,6 +14,6 @@ Sou um Analista de Teconologia e Inovação :computer:
  <br/> :computer: &nbsp; 
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LuanLongen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-longen-110122183/)](https://www.linkedin.com/in/luan-longen-110122183/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-longenluan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contaro@luanlongen.com)](mailto:comtato@luanlongen.com).
+[![Gmail Badge](https://img.shields.io/badge/-contato@luanlongen.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@luanlongen.com.br)](mailto:contato@luanlongen.com.br).
 
 ```
