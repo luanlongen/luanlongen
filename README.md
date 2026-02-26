@@ -1,19 +1,32 @@
-<!DOCTYPE HTML>
+<div align="center">
+  
+  # Luan Longen
+  **Economista | Analista de Tecnologia e Inovação | Desenvolvedor FullStack**
+  
+  ---
+  
+</div>
 
+### Sobre mim
 
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+> Transformando visão econômica e tecnologia em soluções de alto impacto.
 
-# Luan Longen
+Olá! Sou um Economista formado, com atuação na intersecção entre negócios e tecnologia. Atualmente, trabalho como **Analista de Tecnologia e Inovação na Sacre Investimentos**, desenvolvendo soluções com intuito de criar valor.
 
-## Olá pessoal 👋
-Sou um Analista de Teconologia e Inovação :computer:
+**O que estou fazendo agora:**
+* 💼 Atuando na **Sacre Investimentos** com foco em inovação tecnológica.
+* 🚀 Desenvolvendo uma aplicação focada em impulsionar e escalar vendas dentro do ecossistema do **Mercado Livre**.
+* 💻 Aprimorando minhas habilidades e colaborando em projetos **FullStack**.
 
- :rocket:  &nbsp; Estou finalizando minha graduação em Ciências Econômicas!
- <br/> :purple_heart: &nbsp; Busco colaborar com projetos FullStack 😉
- <br/> :blush: &nbsp; Posso te ajudar!
- <br/> :computer: &nbsp; 
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LuanLongen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-longen-110122183/)](https://www.linkedin.com/in/luan-longen-110122183/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-contato@luanlongen.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@luanlongen.com.br)](mailto:contato@luanlongen.com.br).
+---
 
-```
+### Contato e Links
+
+Sinta-se à vontade para entrar em contato para conversarmos sobre tecnologia, economia ou oportunidades de negócios:
+
+<div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanlongen/)
+  [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@luanlongen.com.br)
+
+</div>
